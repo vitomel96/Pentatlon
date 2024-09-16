@@ -18,7 +18,7 @@ git clone git@github.com:vitomel96/Pentatlon.git
 
 npm install 
 
-#o 
+o 
 
 yarn install
 
@@ -37,7 +37,7 @@ Para iniciar el servidor de desarrollo con Vite, usa el siguiente comando:
 bash
 Copiar código
 npm run dev
-# o
+ o
 yarn dev
 El servidor estará disponible en http://localhost:5173/ por defecto.
 
@@ -47,7 +47,7 @@ Para construir la aplicación para producción, ejecuta:
 bash
 Copiar código
 npm run build
-# o
+o
 yarn build
 Esto generará los archivos en la carpeta dist/, listos para ser desplegados en un servidor de producción.
 
